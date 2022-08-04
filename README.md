@@ -2,5 +2,4 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-[![Solved.ac
-프로필](https://solved.ac/profile/tlswodnjs99={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswodnjs99)](https://solved.ac/tlswodnjs99/)
